@@ -2,8 +2,8 @@
 
 ## Content
 
-1. **[Overview](lectures/1.Overview.md)**
-1. **[HTML](lectures/2.HTML.md)**
+1. **[Overview](docs/1.Overview.md)**
+1. **[HTML](docs/2.HTML.md)**
 
 ## References
 
