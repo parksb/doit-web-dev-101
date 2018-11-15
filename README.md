@@ -9,6 +9,7 @@
 1. **[CSS](note/3-css.pdf)**
 1. **[Project](note/4-project.pdf)**
 1. **[Git & GitHub](note/5-git.pdf)**
+1. **[JavaScript: First Steps](note/6-javascript-first-steps.pdf)**
 
 ### 2018-1
 
